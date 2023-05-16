@@ -1,0 +1,40 @@
+.nav {
+  padding: 20px;
+  grid-area: n;
+  background-color: burlywood;
+}
+
+.item {
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.active {
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: gold;
+}
+
+.item img {
+ width: 1000px;
+}
+
+.friendsBody {
+  display: flex;
+  flex-direction: column;
+}
+
+.friends {
+  margin-top: 30px;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.friends a {
+  text-decoration: none;
+}

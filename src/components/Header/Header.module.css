@@ -1,0 +1,36 @@
+.header {
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    grid-area: h;
+    background-color: green;
+}
+
+.header img {
+    width: 200px;
+}
+
+.Logo img {
+    width: 50px;
+}
+
+.loginBlock {
+    float: right;
+}
+
+.loginBlock a {
+    font-weight: 600;
+    font-size: 32px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+}
+
+.userName {
+    font-weight: 600;
+    font-size: 32px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+}

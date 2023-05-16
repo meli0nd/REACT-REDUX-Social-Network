@@ -1,0 +1,10 @@
+.userContainer {
+    display: flex;
+    padding-top: 50px;
+}
+
+.usersPhoto {
+    width: 150px !important;
+    height: 150px;
+    border-radius: 50%;
+}
