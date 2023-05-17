@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/REACT-REDUX-Social-Network/static/css/main.660033bd.css",
-    "main.js": "/REACT-REDUX-Social-Network/static/js/main.422f8a16.js",
+    "main.css": "/REACT-REDUX-Social-Network/static/css/main.24a53ef2.css",
+    "main.js": "/REACT-REDUX-Social-Network/static/js/main.6569bb7d.js",
     "static/css/672.c9a355e3.chunk.css": "/REACT-REDUX-Social-Network/static/css/672.c9a355e3.chunk.css",
     "static/js/672.936ac84a.chunk.js": "/REACT-REDUX-Social-Network/static/js/672.936ac84a.chunk.js",
     "static/css/752.c99c5356.chunk.css": "/REACT-REDUX-Social-Network/static/css/752.c99c5356.chunk.css",
-    "static/js/752.d9aa96d2.chunk.js": "/REACT-REDUX-Social-Network/static/js/752.d9aa96d2.chunk.js",
+    "static/js/752.94ce93b8.chunk.js": "/REACT-REDUX-Social-Network/static/js/752.94ce93b8.chunk.js",
     "static/media/Spinner-1s-200px.gif": "/REACT-REDUX-Social-Network/static/media/Spinner-1s-200px.970c26a1a58d97270e85.gif",
     "static/media/user.jpeg": "/REACT-REDUX-Social-Network/static/media/user.e412272d9e5bd7acc6ba.jpeg",
     "static/media/Logo.png": "/REACT-REDUX-Social-Network/static/media/Logo.6a7b9b27fb80a3edc36f.png",
     "static/media/HeaderLogo.png": "/REACT-REDUX-Social-Network/static/media/HeaderLogo.b07bcaa7ed9141422818.png",
     "index.html": "/REACT-REDUX-Social-Network/index.html",
-    "main.660033bd.css.map": "/REACT-REDUX-Social-Network/static/css/main.660033bd.css.map",
-    "main.422f8a16.js.map": "/REACT-REDUX-Social-Network/static/js/main.422f8a16.js.map",
+    "main.24a53ef2.css.map": "/REACT-REDUX-Social-Network/static/css/main.24a53ef2.css.map",
+    "main.6569bb7d.js.map": "/REACT-REDUX-Social-Network/static/js/main.6569bb7d.js.map",
     "672.c9a355e3.chunk.css.map": "/REACT-REDUX-Social-Network/static/css/672.c9a355e3.chunk.css.map",
     "672.936ac84a.chunk.js.map": "/REACT-REDUX-Social-Network/static/js/672.936ac84a.chunk.js.map",
     "752.c99c5356.chunk.css.map": "/REACT-REDUX-Social-Network/static/css/752.c99c5356.chunk.css.map",
-    "752.d9aa96d2.chunk.js.map": "/REACT-REDUX-Social-Network/static/js/752.d9aa96d2.chunk.js.map"
+    "752.94ce93b8.chunk.js.map": "/REACT-REDUX-Social-Network/static/js/752.94ce93b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.660033bd.css",
-    "static/js/main.422f8a16.js"
+    "static/css/main.24a53ef2.css",
+    "static/js/main.6569bb7d.js"
   ]
 }
