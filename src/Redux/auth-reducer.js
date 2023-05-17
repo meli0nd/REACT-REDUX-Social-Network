@@ -11,7 +11,6 @@ let initialState = {
     login: null,
     isAuth: false,
     captcha: null,
-
 }
 
 const authReducer = (state = initialState, action) => {

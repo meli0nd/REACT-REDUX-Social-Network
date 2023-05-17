@@ -13,10 +13,10 @@ const ProfileInfo = ({ profile, status, updateUserStatus, isOwner, savePhoto, sa
     }
     const deactivateEditMode = () => {
         setEditMode(false)
-        props.updateUserStatus(status)
-        setTimeout(() => {
-            window.location.reload()
-        }, 1000);
+        updateUserStatus(status)
+        // setTimeout(() => {
+        //     window.location.reload()
+        // }, 1000);
     }
 
     if (!profile) {
